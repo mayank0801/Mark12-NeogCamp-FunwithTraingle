@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fun with Traingles</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+    <nav class="navigation container">
+        <div class="nav-brand">FunwithTraingle</div>
+        <ul class="bullet-remove nav-comp">
+            <li class="item-inline">
+                <a href="index.html" class="link ">Is Traingle?</a>
+            </li>
+            <li class="item-inline">
+                <a href="trainglequiz.html" class="link link-active">Traingle Quiz</a>
+            </li>
+            <li class="item-inline">
+                <a href="hypotenuse.html" class="link">Hypotenuse calculator</a>
+            </li>
+            <li class="item-inline">
+                <a href="area.html" class="link">Area Calculator</a>
+            </li>
+        </ul>
+    </nav>
+
+        <h1 style="text-align: center">Traingle Quiz</h1>
+        <form class="container-center quiz-form">
+        <div class="question1">
+            <p>How many side traingle have?</p>
+            <label><input type="radio" name="question1" value="4"/>4</label>
+            <label><input type="radio" name="question1" value="3"/>3</label>
+            <label><input type="radio" name="question1" value="5"/>2</label>
+        </div>
+
+        <div class="question2">
+            <p>One angle of traingle is 90 and other is 60.Find third one?</p>
+            <label><input type="radio" name="question2" value="40"/>40</label>
+            <label><input type="radio" name="question2" value="30"/>30</label>
+            <label><input type="radio" name="question2" value="60"/>60</label>
+        </div>
+     </form>
+
+     <div class="container-center" ><button id="btn-check">Submit</button></div>
+     <p class="container-center" id="output"></p>
+     <script src="quiz.js"></script>
+    
+</body>
+</html>

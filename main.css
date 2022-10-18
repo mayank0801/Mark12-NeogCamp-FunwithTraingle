@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+body{
+    margin: auto;
+    font-family: 'Open Sans', sans-serif;
+}
+:root{
+    --primary-color:#035862;
+    --secondary-color:#e5e5e5;
+}
+.container-center{
+    max-width: 600px;
+    margin: auto;
+}
+
+.item-inline{
+    display: inline;
+    padding: 1rem;
+    list-style: none;
+}
+
+.bullet-remove{
+    list-style: none;
+}
+
+.navigation{
+    background-color: var(--primary-color);
+    padding: 1rem 1.5rem;
+    padding-right: 3rem;
+    border-bottom-left-radius:1rem ;
+    border-bottom-right-radius:1rem ;
+}
+
+.navigation .nav-brand{
+    font-weight: bold;
+    font-size:xx-large;
+    color: white;
+}
+
+.navigation .nav-comp{
+    text-align: right;
+}
+
+.navigation .link
+{
+    font-weight: 1000;
+    color: white;
+    text-decoration: none;
+}
+
+.section-content{
+    text-align: center;
+}
+label{
+    display: block;
+    margin-top: 2rem;
+    font-weight: bold;
+}
+
+#btn-check{
+    margin: ;
+    display: block;
+    margin: 1rem auto;
+    border-radius: 1rem;
+    padding: 0.25rem 1rem;
+    font-weight: bolder;
+}
+
+
+#output{
+    font-weight: 100;
+    font-size: larger;
+}
+
+.submit{
+    padding: 1rem;
+    text-align: center;
+}
+
+.link-active{
+    font-weight: bolder;
+    font-size: larger;
+}
+
+
+
+

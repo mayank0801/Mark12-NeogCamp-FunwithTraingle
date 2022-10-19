@@ -13,6 +13,7 @@ function areaFind(){
     }
     else{
     var area=1/2*(base*height);
+    area=area.toFixed(2);
     output.innerText=area;
     }
 }

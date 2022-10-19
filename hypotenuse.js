@@ -17,6 +17,7 @@ function findHypotenuse(){
     }
     else{
         var Hypotenuse=Math.sqrt(Base*Base+height*height);
+        Hypotenuse=Hypotenuse.toFixed(2);
         output.innerText=Hypotenuse;
     }    
 }

@@ -12,6 +12,6 @@ Live link to the application is [here](https://fun-with-triangles-mark12-neogcam
    - There is 1 point for every correct answer.
 3. Calculate hypotenuse?
    - User has to input basee and perpendicular values and the app will tell them the hypotenuse.
-4. Calculates area of triangle.
+4. Calculate area of triangle.
 
 - User has to input basee and height values and the app will tell them the area of the triangle.

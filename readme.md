@@ -14,3 +14,10 @@ Live link to the application is [here](https://fun-with-triangles-mark12-neogcam
    - User has to input basee and perpendicular values and the app will tell them the hypotenuse.
 4. Calculate area of triangle.
    - User has to input basee and height values and the app will tell them the area of the triangle.
+
+## Tech Stack used:
+
+1. HTML
+2. CSS
+3. JavaScript
+4. Netlify(for deployment)

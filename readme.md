@@ -1,4 +1,4 @@
-# Mark-12: Fun With Triangles
+# Fun With Triangles
 
 ## About:
 

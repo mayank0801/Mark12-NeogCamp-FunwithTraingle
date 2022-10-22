@@ -57,7 +57,6 @@ label{
 }
 
 #btn-check{
-    margin: ;
     display: block;
     margin: 1rem auto;
     border-radius: 1rem;
@@ -65,7 +64,8 @@ label{
     font-weight: bolder;
 }
 
-
+.question2{
+padding: 1rem;}
 #output{
     font-weight: 100;
     font-size: larger;

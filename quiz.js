@@ -2,7 +2,7 @@ const quizForm=document.querySelector('.quiz-form');
 const submitBtn=document.querySelector("#btn-check");
 const output=document.querySelector("#output");
 
-const correctAns=["3","30"]
+const correctAns=["3","30","Acute","Equilateral","2 congruent sides"]
 function calcScore(){
     let score=0;
     let index=0;
